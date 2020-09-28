@@ -9,7 +9,11 @@ Here's what you know:
 
 Choose one of the following three methods: 
 1. Brute Force
+    john Password
+    john Password --show
 2. Dictionary Attack
+    john Password --wordlist=dictionary.txt
+    john Password --show
 3. Rainbow Tables
 
 Which will be most effective and why? 
